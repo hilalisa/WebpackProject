@@ -34366,7 +34366,7 @@ var Header = function (_Component) {
               _react2.default.createElement(
                 'a',
                 { href: '#', className: 'brand-logo' },
-                'UpStar Music'
+                'Musique'
               ),
               _react2.default.createElement(
                 'ul',
